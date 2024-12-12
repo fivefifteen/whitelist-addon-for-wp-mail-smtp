@@ -16,5 +16,11 @@
     }
   ],
   "homepage": "https://github.com/fivefifteen/whitelist-addon-for-wp-mail-smtp",
-  "license": "GPLv2"
+  "license": "GPLv2",
+  "scripts": {
+    "build": [
+      "rm -rf whitelist-addon-build.zip",
+      "zip -r whitelist-addon-build.zip . -x '.git/*' -x '.gitignore'"
+    ]
+  }
 }
