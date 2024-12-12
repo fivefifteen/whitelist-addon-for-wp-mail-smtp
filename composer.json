@@ -1,0 +1,20 @@
+{
+  "name": "fivefifteen-plugin/whitelist-addon-for-wp-mail-smtp",
+  "version": "0.0.3",
+  "description": "An add-on for WP Mail SMTP that allows you to configure a whitelist of email addresses and/or domains that will always be sent emails regardless if WPMS_DO_NOT_SEND is enabled or not in non-production environments.",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Five Fifteen",
+      "email": "hello@fivefifteen.com",
+      "homepage": "https://fivefifteen.com"
+    },
+    {
+      "name": "Kodie Grantham",
+      "email": "kodie.grantham@gmail.com",
+      "homepage": "https://kodieg.com"
+    }
+  ],
+  "homepage": "https://github.com/fivefifteen/whitelist-addon-for-wp-mail-smtp",
+  "license": "GPLv2"
+}
