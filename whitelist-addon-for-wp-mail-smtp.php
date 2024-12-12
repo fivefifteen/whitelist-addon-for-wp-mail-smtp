@@ -6,6 +6,7 @@ Version: 0.0.1
 Description: An add-on for WP Mail SMTP that allows you to configure a whitelist of email addresses and/or domains that will always be sent emails regardless if WPMS_DO_NOT_SEND is enabled or not in non-production environments.
 Author: Five Fifteen
 Author URI: https://plugins.fivefifteen.com
+License: GPLv2 or later
 Requires at least: 5.5
 */
 
